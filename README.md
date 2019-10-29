@@ -1,6 +1,3 @@
-# Debugging
-To see the active debugging version of this program, go to this site:
+active version <br>
 https://lmaoyeet.github.io/mango/.
 
-
-Samuel Reams - yuh yuh
